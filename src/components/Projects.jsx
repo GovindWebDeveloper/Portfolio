@@ -6,31 +6,38 @@ import { image } from "../assets/index";
 
 const projects = [
   {
+    title: "Image Gallery",
+    description:
+      "An Image gallery using the pixel API with the functionality of javaScript debouncing in the search.",
+    image: image.IG,
+    technologies: ["React", "API", "Vercel"],
+    liveLink: "https://image-gallery-umber-zeta.vercel.app/",
+    githubLink: "https://github.com/GovindWebDeveloper/Image-Gallery",
+  },
+  {
     title: "E-commerce Platform",
     description:
-      "An E-Commerce website with integrated with Payment gateway, Cart management using local Storage.",
+      "An E-Commerce website a with integrated with Payment gateway, Cart management using local Storage.",
     image: image.Ecommerce,
     technologies: ["React", "Stripe", "Redux", "API", "Vercel"],
     liveLink: "https://e-commerce-full-web-site.vercel.app/",
     githubLink: "https://github.com/GovindWebDeveloper/ShopSphere",
   },
   {
-    title: "E-commerce Platform",
+    title: "Attendance Tracking System",
     description:
-      "An E-Commerce website with integrated with Payment gateway, Cart management using local Storage.",
-    image: image.Ecommerce,
-    technologies: ["React", "Stripe", "Redux", "API", "Vercel"],
-    liveLink: "https://e-commerce-full-web-site.vercel.app/",
-    githubLink: "https://github.com/GovindWebDeveloper/ShopSphere",
-  },
-  {
-    title: "E-commerce Platform",
-    description:
-      "An E-Commerce website with integrated with Payment gateway, Cart management using local Storage.",
-    image: image.Ecommerce,
-    technologies: ["React", "Stripe", "Redux", "API", "Vercel"],
-    liveLink: "https://e-commerce-full-web-site.vercel.app/",
-    githubLink: "https://github.com/GovindWebDeveloper/ShopSphere",
+      "FullStack Attendance tracking system web application for mobile with realtime tracking and monitor your total working hour/ office hours excluding the breaktime.",
+    image: image.ATS,
+    technologies: [
+      "React",
+      "Redux",
+      "node.js",
+      "express.js",
+      "axios",
+      "Vercel",
+    ],
+    liveLink: "https://attendance-tracker-orcin.vercel.app/",
+    githubLink: "https://github.com/GovindWebDeveloper/Portfolio",
   },
 ];
 

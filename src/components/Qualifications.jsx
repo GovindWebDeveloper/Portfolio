@@ -19,13 +19,13 @@ const qualifications = [
         description:
           "Major in Computer Science with focus on Web Technologies and computer fundamentals",
       },
-      // {
-      //   title: "10+2 in Math Science",
-      //   institution: "Jharkhand Academic Council, Ranchi, Jharkhand",
-      //   year: "2019-2022",
-      //   description:
-      //     "Major in Science with focus on Physics, Chemistry, and Mathematics fundamentals",
-      // },
+      {
+        title: "10+2 in Math Science",
+        institution: "Jharkhand Academic Council, Ranchi, Jharkhand",
+        year: "2019-2022",
+        description:
+          "Major in Science with focus on Physics, Chemistry, and Mathematics fundamentals",
+      },
     ],
   },
   {
@@ -38,13 +38,13 @@ const qualifications = [
         description:
           "I am contributing to real-world projects like eCommerce platforms and admin panels. I focus on building responsive user interfaces, optimizing performance, and implementing features using React, Redux, and Tailwind CSS, while collaborating with cross-functional teams in an agile environment.",
       },
-      // {
-      //   title: "Data Analyst Intern",
-      //   institution: "NSK Bearing India Pvt. Ltd.",
-      //   year: "Mar-2024-May-2024",
-      //   description:
-      //     "Completed an internship at NSK Bearings India Pvt. Ltd., where I gained hands-on experience in industrial operations and manufacturing processes. I worked closely with the engineering team, enhancing my understanding of mechanical systems, quality control, and data analysis within a real-world production environment.",
-      // },
+      {
+        title: "Data Analyst Intern",
+        institution: "NSK Bearing India Pvt. Ltd.",
+        year: "Mar-2024-May-2024",
+        description:
+          "Completed an internship at NSK Bearings India Pvt. Ltd., where I gained hands-on experience in industrial operations and manufacturing processes. I worked closely with the engineering team, enhancing my understanding of mechanical systems, quality control, and data analysis within a real-world production environment.",
+      },
     ],
   },
 ];
