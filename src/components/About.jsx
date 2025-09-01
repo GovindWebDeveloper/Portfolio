@@ -64,25 +64,25 @@ const About = () => {
               className="text-lg text-gray-600 mb-6"
               variants={itemVariants}
             >
-              I'am a passionate Frontend Developer with a strong eye for design
-              and a love for building intuitive, user-friendly web experiences.
-              I specialize in turning complex ideas into clean, responsive
-              interfaces using technologies like React, JavaScript, Tailwind
-              CSS, and HTML/CSS. Over time, I’ve worked on various real-world
-              projects — from eCommerce platforms to admin dashboards — focusing
-              on performance, accessibility, and seamless UI/UX. I enjoy writing
-              clean code, learning new tools, and staying updated with the
-              latest trends in frontend development. When I’m not coding, you’ll
-              find me exploring new design inspirations, sharpening my
-              problem-solving skills.
+              Hi! I’m a <b>Frontend Developer</b> with a passion for building
+              clean, responsive, and user-friendly web applications. I love
+              turning complex ideas into elegant solutions that look great and
+              work seamlessly across devices. I specialize in <b>React</b>,{" "}
+              <b>JavaScript</b>,<b>Tailwind CSS</b>, and <b>HTML/CSS</b>, and
+              I’ve worked on a variety of projects — from{" "}
+              <b>eCommerce platforms</b> to <b>admin dashboards</b> — always
+              focusing on <b>performance</b>, <b>accessibility</b>, and creating
+              smooth <b>UI/UX</b>. I’m committed to writing clean, maintainable
+              code, learning new tools, and staying updated with the latest
+              trends in frontend development. When I’m not coding, you’ll find
+              me exploring design inspiration, experimenting with new ideas, or
+              sharpening my problem-solving skills. Let’s build something
+              amazing together!
             </motion.p>
             <motion.p
               className="text-lg text-gray-600 mb-6"
               variants={itemVariants}
-            >
-              I’m currently open to frontend roles, freelance work, or
-              collaborative projects — let’s build something awesome together!
-            </motion.p>
+            ></motion.p>
             <motion.div
               className="flex flex-wrap gap-4"
               variants={containerVariants}
